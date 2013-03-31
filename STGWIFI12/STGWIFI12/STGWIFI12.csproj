@@ -73,8 +73,11 @@
     <Content Include="Scripts\jquery-1.9.1-vsdoc.js" />
     <Content Include="Scripts\jquery-1.9.1.js" />
     <Content Include="Scripts\jquery-1.9.1.min.js" />
+    <Content Include="STGDownloads.aspx" />
+    <Content Include="STGHelp.aspx" />
     <Content Include="STGProjects.aspx" />
     <Content Include="STGServices.aspx" />
+    <Content Include="STGSignIn.aspx" />
     <Content Include="Styles\AjaxStyleSheet.css" />
     <Content Include="Styles\bootstrap-responsive.css" />
     <Content Include="Styles\bootstrap-responsive.min.css" />
@@ -150,6 +153,18 @@
     <Compile Include="Site.Master.designer.cs">
       <DependentUpon>Site.Master</DependentUpon>
     </Compile>
+    <Compile Include="STGDownloads.aspx.cs">
+      <DependentUpon>STGDownloads.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="STGDownloads.aspx.designer.cs">
+      <DependentUpon>STGDownloads.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="STGHelp.aspx.cs">
+      <DependentUpon>STGHelp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="STGHelp.aspx.designer.cs">
+      <DependentUpon>STGHelp.aspx</DependentUpon>
+    </Compile>
     <Compile Include="STGProjects.aspx.cs">
       <DependentUpon>STGProjects.aspx</DependentUpon>
     </Compile>
@@ -161,6 +176,12 @@
     </Compile>
     <Compile Include="STGServices.aspx.designer.cs">
       <DependentUpon>STGServices.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="STGSignIn.aspx.cs">
+      <DependentUpon>STGSignIn.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="STGSignIn.aspx.designer.cs">
+      <DependentUpon>STGSignIn.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
