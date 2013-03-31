@@ -107,9 +107,9 @@
       margin: 80px 0; /* Space out the Bootstrap <hr> more */
     }
     .featurette {
-      padding-top: 70px; /* Vertically center images part 1: add padding above and below text. */
+      padding-top: 90px; /* Vertically center images part 1: add padding above and below text. */
       overflow: hidden; /* Vertically center images part 2: clear their floats. */
-      margin-left:175px;
+      margin-left:205px;
       margin-right:350px;
     }
     .featurette-image {
@@ -161,14 +161,14 @@
 
     <hr class="featurette-divider"/>
        <div class="featurette">
-        <img class="featurette-image pull-left" src="bootstrap-master/bootstrap-master/docs/assets/img/examples/browser-icon-firefox.png" alt=""/>
+        <img class="featurette-image pull-left" src="Images/browser-icon-firefox.png" alt=""/>
         <h2 class="featurette-heading">Oh yeah, it's that good. <span class="muted">Web Design & Hosting.</span></h2>
         <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
       </div>
-
+   
      <hr class="featurette-divider"/>
         <div class="featurette">
-        <img class="featurette-image pull-right" src="bootstrap-master/bootstrap-master/docs/assets/img/examples/browser-icon-safari.png" alt=""/>
+        <img class="featurette-image pull-right" src="Images/browser-icon-chrome.png" alt=""/>
         <h2 class="featurette-heading">And lastly, this one. <span class="muted">Online Auction.</span></h2>
         <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
           <p><a class="btn btn-large btn-primary" href="https://apps.facebook.com/deamshub/?fb_source=bookmark_apps&ref=bookmarks&count=0&fb_bmpos=4_0">Bid on Dreamshop on Facebook</a></p>
@@ -177,7 +177,7 @@
 
         <hr class="featurette-divider"/>
        <div class="featurette">
-        <img class="featurette-image pull-left" src="bootstrap-master/bootstrap-master/docs/assets/img/examples/browser-icon-firefox.png" alt=""/>
+        <img class="featurette-image pull-left" src="Images/browser-icon-firefox.png" alt=""/>
         <h2 class="featurette-heading">Oh yeah, it's that good. <span class="muted">Computer Training & Repair.</span></h2>
         <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
          <p><a class="btn btn-large btn-primary" href="https://www.youtube.com/user/EverySteveJobsVideo">Watch Video Tutorials Now</a></p>
@@ -185,7 +185,7 @@
 
         <hr class="featurette-divider"/>
         <div class="featurette">
-        <img class="featurette-image pull-right" src="bootstrap-master/bootstrap-master/docs/assets/img/examples/browser-icon-safari.png" alt=""/>
+        <img class="featurette-image pull-right" src="Images/browser-icon-safari.png" alt=""/>
         <h2 class="featurette-heading">And lastly, this one. <span class="muted">Video & Photo Streaming / Coverage.</span></h2>
         <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
          <p><a class="btn btn-large btn-primary" href="assets/bootstrap.zip">Watch TV & Movies Now</a></p>

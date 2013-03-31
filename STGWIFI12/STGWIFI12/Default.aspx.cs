@@ -13,5 +13,20 @@ namespace STGWIFI12
         {
 
         }
+
+        protected void Button4_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("./STGSignIn.aspx");
+        }
+
+        protected void Button2_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("./STGSignIn.aspx");
+        }
+
+        protected void Button3_Click(object sender, EventArgs e)
+        {
+                Response.Redirect("./STGSignIn.aspx");
+        } 
     }
 }

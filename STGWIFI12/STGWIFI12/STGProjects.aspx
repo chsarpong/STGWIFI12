@@ -102,6 +102,14 @@
                     border-right: 0;
                     border-radius: 0 3px 3px 0;
                 }
+                
+                .leadproject {
+                     margin-bottom: 20px;
+                     font-size: 21px;
+                     font-weight: 200;
+                     line-height: 10px;
+                     color: rgb(0, 136, 204);
+                  }
     </style>
 
 
@@ -116,6 +124,8 @@
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png" />
     <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png" />
     <link rel="shortcut icon" href="../assets/ico/favicon.png" />
+
+
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 

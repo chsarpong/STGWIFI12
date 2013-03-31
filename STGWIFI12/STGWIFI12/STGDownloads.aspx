@@ -152,7 +152,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
        <div class="featurette">
-        <img class="featurette-image pull-right" src="bootstrap-master/bootstrap-master/docs/assets/img/example-sites/fromtheappstore_hero.png" alt=""/>
+        <img class="featurette-image pull-right" src="Images/fromtheappstore_hero.png" alt=""/>
         <h2 class="featurette-heading">And first, this one. <span class="muted">iOS Download.</span></h2>
         <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
            <p><a class="btn btn-large btn-primary" href="assets/bootstrap.zip">Download STG Wifi for iOS</a></p>
@@ -160,7 +160,7 @@
 
     <hr class="featurette-divider"/>
        <div class="featurette">
-        <img class="featurette-image pull-left" src="bootstrap-master/bootstrap-master/docs/assets/img/example-sites/about-nexus-family.png"/>
+        <img class="featurette-image pull-left" src="Images/about-nexus-family.png" alt=""/>
         <h2 class="featurette-heading">Oh yeah, it's that good. <span class="muted">See Android Download.</span></h2>
         <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         <p><a class="btn btn-large btn-primary" href="assets/bootstrap.zip">Download STG Wifi for Android</a></p>
@@ -168,7 +168,7 @@
 
       <hr class="featurette-divider"/>
       <div class="featurette">
-        <img class="featurette-image pull-right" src="bootstrap-master/bootstrap-master/docs/assets/img/example-sites/Nokia-Drive.jpg"/>
+        <img class="featurette-image pull-right" src="Images/Nokia-Drive.jpg" alt=""/>
         <h2 class="featurette-heading">And lastly, this one. <span class="muted">Check Windows 8 Download.</span></h2>
         <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         <p><a class="btn btn-large btn-primary" href="assets/bootstrap.zip">Download STG Wifi for Windows 8</a></p>
@@ -177,7 +177,7 @@
 
       <hr class="featurette-divider"/>
        <div class="featurette">
-        <img class="featurette-image pull-left" src="bootstrap-master/bootstrap-master/docs/assets/img/example-sites/about-nexus-family.png"/>
+        <img class="featurette-image pull-left" src="Images/about-nexus-family.png" alt=""/>
         <h2 class="featurette-heading">Oh yeah, it's that good. <span class="muted">See Desktop Download.</span></h2>
         <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         <p><a class="btn btn-large btn-primary" href="assets/bootstrap.zip">Download STG Wifi for Android</a></p>

@@ -173,7 +173,9 @@
                 <h2>Speed(Mbit/sec):<asp:Label ID="Label3" runat="server" Text="70"></asp:Label></h2> <br />
                 <p>When you use this WIFI you agree to the terms of use and any additional terms</p>
                 </div>
-                <p><asp:Button ID="Button4" runat="server" Text="CONNECT" CssClass="btn btn-large btn-success btn-large input-medium search-query" Width="300px"></asp:Button></p>
+                <p><asp:Button ID="Button4" runat="server" Text="CONNECT" 
+                        CssClass="btn btn-large btn-success btn-large input-medium search-query" 
+                        Width="300px" onclick="Button4_Click"></asp:Button></p>
                 <%--<div class="onoffswitch">
                     <input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="myonoffswitch" checked />
                     <label class="onoffswitch-label" for="myonoffswitch">
@@ -198,7 +200,9 @@
                 <h2>Speed(Mbit/sec):<asp:Label ID="Label1" runat="server" Text="70"></asp:Label></h2> <br />
                 <p>When you use this WIFI you agree to the terms of use and any additional terms</p>
                 </div>
-                <p><asp:Button ID="Button2" runat="server" Text="CONNECT" CssClass="btn btn-large btn-success btn-large input-medium search-query" Width="300px"></asp:Button></p>
+                <p><asp:Button ID="Button2" runat="server" Text="CONNECT" 
+                        CssClass="btn btn-large btn-success btn-large input-medium search-query" 
+                        Width="300px" onclick="Button2_Click"></asp:Button></p>
             </div>
 
             <div class="span4">
@@ -209,7 +213,9 @@
                 <h2>Speed(Mbit/sec):<asp:Label ID="Label2" runat="server" Text="70"></asp:Label></h2> <br />
                 <p>When you use this WIFI you agree to the terms of use and any additional terms</p>
                 </div>
-             <p><asp:Button ID="Button3" runat="server" Text="CONNECT" CssClass="btn btn-large btn-success btn-large input-medium search-query" Width="300px"></asp:Button></p>
+             <p><asp:Button ID="Button3" runat="server" Text="CONNECT" 
+                     CssClass="btn btn-large btn-success btn-large input-medium search-query" 
+                     Width="300px" onclick="Button3_Click"></asp:Button></p>
             </div>
         </div>
         <br />
