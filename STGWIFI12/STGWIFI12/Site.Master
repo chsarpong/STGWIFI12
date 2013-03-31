@@ -5,6 +5,15 @@
 <head runat="server">
     <title></title>
     <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+
+     <link href="bootstrap-master/bootstrap-master/docs/assets/css/bootstrap.css" rel="stylesheet"
+        type="text/css" />
+    
+    <link href="bootstrap-master/bootstrap-master/docs/assets/css/bootstrap-responsive.css"
+        rel="stylesheet" type="text/css" />
+
+    <link href="bootstrap-master/bootstrap-master/docs/assets/css/STG.css" rel="stylesheet"
+        type="text/css" />
     <asp:ContentPlaceHolder ID="HeadContent" runat="server">
     </asp:ContentPlaceHolder>
 </head>
