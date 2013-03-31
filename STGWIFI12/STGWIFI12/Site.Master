@@ -112,7 +112,7 @@
           <div class="navbar-inner">
             <div class="container">
               <ul class="nav">
-                <li class="active"><a href="STGHome.aspx">Home</a></li>
+                <li class="active"><a href="Default.aspx">Home</a></li>
                 <li><a href="STGServices.aspx">Services</a></li>
                 <li><a href="STGProjects.aspx">Cities</a></li>
                 <li><a href="STGDownloads.aspx">Downloads</a></li>

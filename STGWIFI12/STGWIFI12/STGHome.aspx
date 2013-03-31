@@ -1,7 +1,6 @@
-﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true"
-    CodeBehind="Default.aspx.cs" Inherits="STGWIFI12._Default" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="STGHome.aspx.cs" Inherits="STGWifi.STGHome" %>
 
-<asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
+<asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
     <link href="bootstrap-master/bootstrap-master/docs/assets/css/bootstrap.css" rel="stylesheet" />
     <link href="bootstrap-master/bootstrap-master/docs/assets/css/bootstrap.css" rel="stylesheet" />
     <link href="bootstrap-master/docs/assets/css/STG.css" rel="stylesheet" />
@@ -140,9 +139,10 @@
     
 
     </ajaxToolkit:AutoCompleteExtender>--%>
+    
 </asp:Content>
-<asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="ContentPlaceHolder1">
-     <br />
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <br />
     <br />
     <br />
     <br />
@@ -214,4 +214,5 @@
         <br />
         <br />
     </div>
+
 </asp:Content>

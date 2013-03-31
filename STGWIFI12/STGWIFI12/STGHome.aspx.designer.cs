@@ -7,10 +7,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace STGWIFI12 {
+namespace STGWifi {
     
     
-    public partial class _Default {
+    public partial class STGHome {
         
         /// <summary>
         /// tbEnterCities control.
