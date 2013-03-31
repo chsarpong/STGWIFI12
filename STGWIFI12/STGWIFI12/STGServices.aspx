@@ -154,10 +154,8 @@
 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-
-
       <div class="featurette">
-        <img class="featurette-image pull-right" src="bootstrap-master/bootstrap-master/docs/assets/img/examples/browser-icon-safari.png" alt=""/>
+        <img class="featurette-image pull-right" src="Images/browser-icon-safari.png" alt=""/>
         <h2 class="featurette-heading">And first, this one. <span class="muted">Fast and powerful Wi-Fi.</span></h2>
         <p class="lead">Browse wherever you are and whenever you want at your convenience porta felis euismod semper. Enjoy 24 hour continuous service for seven (7) days a week.. Fusce dapibus, tellus ac cursus commodo.</p>
           <p><a class="btn btn-large btn-primary" href="STGDownloads.aspx">Download STG Wifi</a></p>
