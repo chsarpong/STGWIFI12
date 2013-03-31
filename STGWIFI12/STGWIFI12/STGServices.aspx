@@ -109,9 +109,9 @@
       margin: 80px 0; /* Space out the Bootstrap <hr> more */
     }
     .featurette {
-      padding-top: 120px; /* Vertically center images part 1: add padding above and below text. */
+      padding-top: 70px; /* Vertically center images part 1: add padding above and below text. */
       overflow: hidden; /* Vertically center images part 2: clear their floats. */
-      margin-left:150px;
+      margin-left:170px;
       margin-right:350px;
     }
     .featurette-image {
