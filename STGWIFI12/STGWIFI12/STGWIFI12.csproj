@@ -67,7 +67,7 @@
     <Content Include="Scripts\jquery-1.9.1-vsdoc.js" />
     <Content Include="Scripts\jquery-1.9.1.js" />
     <Content Include="Scripts\jquery-1.9.1.min.js" />
-    <Content Include="STGHome.aspx" />
+    <Content Include="STGServices.aspx" />
     <Content Include="Styles\AjaxStyleSheet.css" />
     <Content Include="Styles\bootstrap-responsive.css" />
     <Content Include="Styles\bootstrap-responsive.min.css" />
@@ -143,12 +143,11 @@
     <Compile Include="Site.Master.designer.cs">
       <DependentUpon>Site.Master</DependentUpon>
     </Compile>
-    <Compile Include="STGHome.aspx.cs">
-      <DependentUpon>STGHome.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
+    <Compile Include="STGServices.aspx.cs">
+      <DependentUpon>STGServices.aspx</DependentUpon>
     </Compile>
-    <Compile Include="STGHome.aspx.designer.cs">
-      <DependentUpon>STGHome.aspx</DependentUpon>
+    <Compile Include="STGServices.aspx.designer.cs">
+      <DependentUpon>STGServices.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
