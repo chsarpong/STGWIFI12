@@ -2,6 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
     <link href="Styles/bootstrap.css" rel="stylesheet" type="text/css" />
     <link href="Styles/bootstrap-responsive.css" rel="stylesheet" type="text/css" />
+
     <style type="text/css">
         body
         {
@@ -151,7 +152,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
        <div class="featurette">
-        <img class="featurette-image pull-right" src="bootstrap-master/bootstrap-master/docs/assets/img/example-sites/fromtheappstore_hero.png"/>
+        <img class="featurette-image pull-right" src="bootstrap-master/bootstrap-master/docs/assets/img/example-sites/fromtheappstore_hero.png" alt=""/>
         <h2 class="featurette-heading">And first, this one. <span class="muted">iOS Download.</span></h2>
         <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
            <p><a class="btn btn-large btn-primary" href="assets/bootstrap.zip">Download STG Wifi for iOS</a></p>

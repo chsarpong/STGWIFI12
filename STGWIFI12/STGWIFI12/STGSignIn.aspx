@@ -68,7 +68,7 @@
         <br /><br />OR<br /><br />
         <asp:Button ID="Button1" runat="server" Text="Sign Up for STG WIFI" CssClass="btn btn-large btn-success btn-large input-medium search-query" Width="210px"></asp:Button>
         <br />    <br />    <br />    <br />
-        <a href="STGHome.aspx">Back to STG Home</a>
+        <a href="Default.aspx">Back to STG Home</a>
 
     </div>
     </div>
