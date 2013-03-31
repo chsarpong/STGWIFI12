@@ -128,7 +128,6 @@
     <Content Include="bootstrap-master\bootstrap-master\docs\assets\js\html5shiv.js" />
     <Content Include="bootstrap-master\bootstrap-master\docs\assets\js\jquery.js" />
     <Content Include="bootstrap-master\bootstrap-master\docs\base-css.html" />
-    <Content Include="bootstrap-master\bootstrap-master\docs\build\index.js" />
     <Content Include="bootstrap-master\bootstrap-master\docs\build\node_modules\hogan.js\.gitmodules" />
     <Content Include="bootstrap-master\bootstrap-master\docs\build\node_modules\hogan.js\lib\compiler.js" />
     <Content Include="bootstrap-master\bootstrap-master\docs\build\node_modules\hogan.js\lib\hogan.js" />
