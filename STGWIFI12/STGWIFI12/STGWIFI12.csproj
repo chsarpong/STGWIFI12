@@ -155,30 +155,35 @@
     </Compile>
     <Compile Include="STGDownloads.aspx.cs">
       <DependentUpon>STGDownloads.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="STGDownloads.aspx.designer.cs">
       <DependentUpon>STGDownloads.aspx</DependentUpon>
     </Compile>
     <Compile Include="STGHelp.aspx.cs">
       <DependentUpon>STGHelp.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="STGHelp.aspx.designer.cs">
       <DependentUpon>STGHelp.aspx</DependentUpon>
     </Compile>
     <Compile Include="STGProjects.aspx.cs">
       <DependentUpon>STGProjects.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="STGProjects.aspx.designer.cs">
       <DependentUpon>STGProjects.aspx</DependentUpon>
     </Compile>
     <Compile Include="STGServices.aspx.cs">
       <DependentUpon>STGServices.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="STGServices.aspx.designer.cs">
       <DependentUpon>STGServices.aspx</DependentUpon>
     </Compile>
     <Compile Include="STGSignIn.aspx.cs">
       <DependentUpon>STGSignIn.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="STGSignIn.aspx.designer.cs">
       <DependentUpon>STGSignIn.aspx</DependentUpon>

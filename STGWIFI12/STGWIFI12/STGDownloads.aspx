@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="STGDownloads.aspx.cs" Inherits="STGWifi.STGDownloads" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
-    <link href="bootstrap-master/bootstrap-master/docs/assets/css/bootstrap.css" rel="stylesheet" />
-    <link href="bootstrap-master/docs/assets/css/STG.css" rel="stylesheet" />
+    <link href="Styles/bootstrap.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/bootstrap-responsive.css" rel="stylesheet" type="text/css" />
     <style type="text/css">
         body
         {

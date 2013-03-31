@@ -5,9 +5,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
-        <link href="bootstrap-master/bootstrap-master/docs/assets/css/bootstrap.css" rel="stylesheet" />
-    <link href="bootstrap-master/bootstrap-master/docs/assets/css/bootstrap-responsive.css" rel="stylesheet" />
-    <link href="bootstrap-master/docs/assets/css/STG.css" rel="stylesheet" />
+    <link href="Styles/bootstrap.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/bootstrap-responsive.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/STG.css" rel="stylesheet" type="text/css" />
 
     <style type="text/css">
       body {
