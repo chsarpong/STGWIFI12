@@ -2,9 +2,10 @@
     CodeBehind="Default.aspx.cs" Inherits="STGWIFI12._Default" %>
 
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
-    <link href="bootstrap-master/bootstrap-master/docs/assets/css/bootstrap.css" rel="stylesheet" />
-    <link href="bootstrap-master/bootstrap-master/docs/assets/css/bootstrap.css" rel="stylesheet" />
-    <link href="bootstrap-master/docs/assets/css/STG.css" rel="stylesheet" />
+    <link href="Styles/bootstrap.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/bootstrap-responsive.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/STG.css" rel="stylesheet" type="text/css" />
+
     <link href="Styles/STGAnimation.css" rel="stylesheet" type="text/css" />
     <link href="Styles/AjaxStyleSheet.css" rel="stylesheet" type="text/css" />
     <style type="text/css">
