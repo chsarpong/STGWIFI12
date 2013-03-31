@@ -111,7 +111,7 @@
     .featurette {
       padding-top: 120px; /* Vertically center images part 1: add padding above and below text. */
       overflow: hidden; /* Vertically center images part 2: clear their floats. */
-      margin-left:100px;
+      margin-left:150px;
       margin-right:350px;
     }
     .featurette-image {
